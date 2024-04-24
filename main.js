@@ -70,20 +70,3 @@ if (pinanswer.pin === mypin) {
 else {
     console.log("Incorrect pin number");
 }
-// let balance = await inquirer.prompt(
-//     [ {
-//        name: "Balance",
-//        message: "Please select your amount",
-//        type: "list",
-//        choices: ["10000", "15000", "20000"]
-//         }]
-// ); if (balance.Balnce == 10000){
-//     mybalance-=balance.Balance;
-//     console.log(`Your remining balance is ${mybalance}`)
-// } else if (balance.Balance== 15000){
-//     mybalance-=balance.Balance;
-//     console.log(`Your remaining balance is: ${mybalance}`)
-// } else if (balance.Balance== 20000){
-//     mybalance-=balance.Balance;
-//     console.log(`Your remaining balance is: ${mybalance} `)
-// }
