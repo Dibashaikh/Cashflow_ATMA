@@ -10,8 +10,6 @@ let pinanswer = await inquirer.prompt(
      name: "pin",
      message: "Enter your pin",
      type: "number"
-
-
     }
 ] 
 )
